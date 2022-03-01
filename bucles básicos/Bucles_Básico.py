@@ -1,11 +1,11 @@
-for x in range(150):
+for x in range(151):
     print(x)
 
-for y in range(5, 1000):
+for y in range(5, 1001):
     if y % 5 == 0:
         print(y)
 
-for z in range(1, 100):
+for z in range(1, 101):
     if z % 10 == 0:
         print("Coding Dojo")
     elif z % 5 == 0:
